@@ -1,6 +1,5 @@
----
-exclude: ['README.markdown']
-permalink: ':title'
-highlighter: pygments
-safe: false
-title: 'Carte'
+
+title: "Remote theme example"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+search_enabled: false
